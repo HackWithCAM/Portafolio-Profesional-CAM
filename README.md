@@ -11,7 +11,7 @@
 ![HTML](https://img.shields.io/static/v1?label=&message=Html&color=orange&logo=html5&logoColor=white&style=for-the-badge)
 ![CSS](https://img.shields.io/static/v1?label=&message=CSS&color=CC6699&logo=css&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=yellow&logo=JavaScript&logoColor=white&style=for-the-badge)
-![Kali Linux](https://img.shields.io/static/v1?label=&message=Kali%20Linux&color=blue&logo=kalilinux&logoColor=white&style=for-the-badge)
+![Kali Linux](https://img.shields.io/static/v1?label=&message=Kali%20Linux&color=darkblue&logo=kalilinux&logoColor=white&style=for-the-badge)
 ![Nmap](https://img.shields.io/static/v1?label=&message=Nmap&color=black&logo=nmap&logoColor=white&style=for-the-badge)
 ![Arp-scan](https://img.shields.io/static/v1?label=&message=Arp%20scan&color=black&logo=arpscan&logoColor=white&style=for-the-badge)
 ![Metasploit](https://img.shields.io/static/v1?label=&message=Metasploit&color=black&logo=metasploit&logoColor=white&style=for-the-badge)
