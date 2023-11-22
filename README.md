@@ -30,7 +30,7 @@
 
 ## 🔴 Vídeos de Resolución de Máquinas Windows y Servidores Linux.
 
-[![Youtube]([https://i.ibb.co/0DC2pLM/5-removebg-preview.png](https://i9.ytimg.com/vi_webp/FoozjX6WyYE/mqdefault.webp?v=6555a586&sqp=CJj-9aoG&rs=AOn4CLAWXvJf6vigS4iOXHlHIr9G5MJI-Q))](https://www.youtube.com/channel/UCe_bOHY9exo_enRp8_amdOA)
+[![Youtube](https://i.ibb.co/86MrqyB/1.png)](https://www.youtube.com/channel/UCe_bOHY9exo_enRp8_amdOA)
 
 ## Carlos Andrés Monsalve
  
