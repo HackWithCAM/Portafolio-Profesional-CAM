@@ -10,15 +10,15 @@
 
 ![HTML](https://img.shields.io/static/v1?label=&message=Html&color=orange&logo=html5&logoColor=white&style=for-the-badge)
 ![CSS](https://img.shields.io/static/v1?label=&message=CSS&color=CC6699&logo=css&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=#F7DF1E&logo=JavaScript&logoColor=white&style=for-the-badge)
-![Kali Linux](https://img.shields.io/static/v1?label=&message=Kali%20Linux&color=#557C94&logo=kalilinux&logoColor=white&style=for-the-badge)
-![Nmap](https://img.shields.io/static/v1?label=&message=Nmap&color=#396CB2&logo=nmap&logoColor=white&style=for-the-badge)
-![Arp-scan](https://img.shields.io/static/v1?label=&message=Arp%20scan&color=#FDEE21&logo=arpscan&logoColor=white&style=for-the-badge)
-![Metasploit](https://img.shields.io/static/v1?label=&message=Metasploit&color=#4169E1&logo=metasploit&logoColor=white&style=for-the-badge)
-![zphisher](https://img.shields.io/static/v1?label=&message=Zphisher&color=#50ADFF&logo=zphisher&logoColor=white&style=for-the-badge)
-![BurpSuite](https://img.shields.io/static/v1?label=&message=BurpSuite&color=#EA6800&logo=burpsuite&logoColor=white&style=for-the-badge)
-![Nessus](https://img.shields.io/static/v1?label=&message=Nessus&color=#000000&logo=nessus&logoColor=white&style=for-the-badge)
-![RapidPayload](https://img.shields.io/static/v1?label=&message=RapidPayload&color=#FFFF09&logo=rapidpayload&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=yellow&logo=JavaScript&logoColor=white&style=for-the-badge)
+![Kali Linux](https://img.shields.io/static/v1?label=&message=Kali%20Linux&color=black&logo=kalilinux&logoColor=white&style=for-the-badge)
+![Nmap](https://img.shields.io/static/v1?label=&message=Nmap&color=black&logo=nmap&logoColor=white&style=for-the-badge)
+![Arp-scan](https://img.shields.io/static/v1?label=&message=Arp%20scan&color=black&logo=arpscan&logoColor=white&style=for-the-badge)
+![Metasploit](https://img.shields.io/static/v1?label=&message=Metasploit&color=black&logo=metasploit&logoColor=white&style=for-the-badge)
+![zphisher](https://img.shields.io/static/v1?label=&message=Zphisher&color=black&logo=zphisher&logoColor=white&style=for-the-badge)
+![BurpSuite](https://img.shields.io/static/v1?label=&message=BurpSuite&color=black&logo=burpsuite&logoColor=white&style=for-the-badge)
+![Nessus](https://img.shields.io/static/v1?label=&message=Nessus&color=black&logo=nessus&logoColor=white&style=for-the-badge)
+![RapidPayload](https://img.shields.io/static/v1?label=&message=RapidPayload&color=black&logo=rapidpayload&logoColor=white&style=for-the-badge)
 
 > Aclaraciones:
 >
