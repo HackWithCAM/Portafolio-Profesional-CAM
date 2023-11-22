@@ -9,16 +9,16 @@
 ## Tecnologías usadas
 
 ![HTML](https://img.shields.io/static/v1?label=&message=Html&color=orange&logo=html5&logoColor=white&style=for-the-badge)
-![CSS](https://img.shields.io/static/v1?label=&message=SASS&color=CC6699&logo=sass&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/static/v1?label=&message=TypeScript&color=3178C6&logo=typescript&logoColor=white&style=for-the-badge)
-![Kali Linux](https://img.shields.io/static/v1?label=&message=BEM%20Methodology&color=17A1E6&logo=bem&logoColor=white&style=for-the-badge)
-![Nmap](https://img.shields.io/static/v1?label=&message=BEM%20Methodology&color=17A1E6&logo=bem&logoColor=white&style=for-the-badge)
-![Arp-scan](https://img.shields.io/static/v1?label=&message=BEM%20Methodology&color=17A1E6&logo=bem&logoColor=white&style=for-the-badge)
-![msfconsole](https://img.shields.io/static/v1?label=&message=BEM%20Methodology&color=17A1E6&logo=bem&logoColor=white&style=for-the-badge)
-![zphisher](https://img.shields.io/static/v1?label=&message=BEM%20Methodology&color=17A1E6&logo=bem&logoColor=white&style=for-the-badge)
-![BurpSuite](https://img.shields.io/static/v1?label=&message=BEM%20Methodology&color=17A1E6&logo=bem&logoColor=white&style=for-the-badge)
-![Nessus](https://img.shields.io/static/v1?label=&message=BEM%20Methodology&color=17A1E6&logo=bem&logoColor=white&style=for-the-badge)
-![RapidPayload](https://img.shields.io/static/v1?label=&message=BEM%20Methodology&color=17A1E6&logo=bem&logoColor=white&style=for-the-badge)
+![CSS](https://img.shields.io/static/v1?label=&message=CSS&color=CC6699&logo=css&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=#F7DF1E&logo=JavaScript&logoColor=white&style=for-the-badge)
+![Kali Linux](https://img.shields.io/static/v1?label=&message=Kali%20Linux&color=#557C94&logo=kalilinux&logoColor=white&style=for-the-badge)
+![Nmap](https://img.shields.io/static/v1?label=&message=Nmap&color=#396CB2&logo=nmap&logoColor=white&style=for-the-badge)
+![Arp-scan](https://img.shields.io/static/v1?label=&message=Arp%20scan&color=#FDEE21&logo=arpscan&logoColor=white&style=for-the-badge)
+![Metasploit](https://img.shields.io/static/v1?label=&message=Metasploit&color=#4169E1&logo=metasploit&logoColor=white&style=for-the-badge)
+![zphisher](https://img.shields.io/static/v1?label=&message=Zphisher&color=#50ADFF&logo=zphisher&logoColor=white&style=for-the-badge)
+![BurpSuite](https://img.shields.io/static/v1?label=&message=BurpSuite&color=#EA6800&logo=burpsuite&logoColor=white&style=for-the-badge)
+![Nessus](https://img.shields.io/static/v1?label=&message=Nessus&color=#000000&logo=nessus&logoColor=white&style=for-the-badge)
+![RapidPayload](https://img.shields.io/static/v1?label=&message=RapidPayload&color=#FFFF09&logo=rapidpayload&logoColor=white&style=for-the-badge)
 
 > Aclaraciones:
 >
