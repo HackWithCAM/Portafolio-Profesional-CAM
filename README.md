@@ -16,9 +16,9 @@
 ![Arp-scan](https://img.shields.io/static/v1?label=&message=Arp-scan&color=purple&logo=arpscan&logoColor=red&style=for-the-badge)
 ![Metasploit](https://i.ibb.co/XVqNY0r/logo-metasploit.png)
 ![zphisher](https://i.ibb.co/nb7d3gd/logo-zphisher.png)
-![BurpSuite](https://img.shields.io/static/v1?label=&message=BurpSuite&color=black&logo=burpsuite&logoColor=white&style=for-the-badge)
-![Nessus](https://img.shields.io/static/v1?label=&message=Nessus&color=black&logo=nessus&logoColor=white&style=for-the-badge)
-![RapidPayload](https://img.shields.io/static/v1?label=&message=RapidPayload&color=black&logo=rapidpayload&logoColor=white&style=for-the-badge)
+![BurpSuite](https://i.ibb.co/R9m84wh/logo-burpsuite.png)
+![Nessus](https://i.ibb.co/Wnfp8PS/logo-nessus.png)
+![RapidPayload](https://img.shields.io/static/v1?label=&message=RapidPayload&color=darkorange&logo=rapidpayload&logoColor=white&style=for-the-badge)
 
 > Aclaraciones:
 >
