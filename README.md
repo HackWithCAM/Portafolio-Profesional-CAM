@@ -13,7 +13,7 @@
 ![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=yellow&logo=JavaScript&logoColor=white&style=for-the-badge)
 ![Kali Linux](https://img.shields.io/static/v1?label=&message=Kali%20Linux&color=blue&logo=kalilinux&logoColor=black&style=for-the-badge)
 ![Nmap](https://i.ibb.co/VjJQdG4/logo-nmap.png)
-![Arp-scan](https://img.shields.io/static/v1?label=&message=Arp-scan&color=black&logo=arpscan&logoColor=red&style=for-the-badge)
+![Arp-scan](https://img.shields.io/static/v1?label=&message=Arp-scan&color=purple&logo=arpscan&logoColor=red&style=for-the-badge)
 ![Metasploit]()
 ![zphisher](https://img.shields.io/static/v1?label=&message=Zphisher&color=black&logo=zphisher&logoColor=white&style=for-the-badge)
 ![BurpSuite](https://img.shields.io/static/v1?label=&message=BurpSuite&color=black&logo=burpsuite&logoColor=white&style=for-the-badge)
