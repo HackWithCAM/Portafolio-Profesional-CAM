@@ -12,7 +12,7 @@
 ![CSS](https://img.shields.io/static/v1?label=&message=CSS&color=CC6699&logo=css&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=yellow&logo=JavaScript&logoColor=white&style=for-the-badge)
 ![Kali Linux](https://img.shields.io/static/v1?label=&message=Kali%20Linux&color=blue&logo=kalilinux&logoColor=black&style=for-the-badge)
-![Nmap](https://i.ibb.co/vhcN5fk/Dise-o-sin-t-tulo.png)
+![Nmap](https://i.ibb.co/m5NZfFY/Dise-o-sin-t-tulo-1-1.png)
 ![Arp-scan](https://img.shields.io/static/v1?label=&message=Arp%20scan&color=black&logo=arpscan&logoColor=white&style=for-the-badge)
 ![Metasploit](https://img.shields.io/static/v1?label=&message=Metasploit&color=black&logo=metasploit&logoColor=white&style=for-the-badge)
 ![zphisher](https://img.shields.io/static/v1?label=&message=Zphisher&color=black&logo=zphisher&logoColor=white&style=for-the-badge)
